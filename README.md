@@ -1,3 +1,2 @@
 # MarioJumper
-Re-upload of my java project
-Made in my first year of SAMT, with a collegue
+Re-upload of my java project, made in my first year of SAMT with a collegue
